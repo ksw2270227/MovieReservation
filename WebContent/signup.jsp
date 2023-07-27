@@ -8,11 +8,11 @@
 	<div class="back">
 		<div class="main">
 			<div class="header">
-				<a href="home.html">ホーム</a>
-				<a href="allmovie.html">映画一覧</a>
-				<a href="login.html">ログイン</a>
-				<a href="logout.html">ログアウト</a>
-				<a href="mypage.html">マイページ</a>
+				<a href="home.jsp">ホーム</a>
+				<a href="allmovie.jsp">映画一覧</a>
+				<a href="login.jsp">ログイン</a>
+				<a href="logout.jsp">ログアウト</a>
+				<a href="mypage.jsp">マイページ</a>
 				<hr>
 			<h1>新規作成</h1>
 		<p>新規作成の登録には、下記の入力をしてください。</p>
