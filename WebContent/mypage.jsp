@@ -11,7 +11,6 @@
     <div class="main">
 <%@include file="header.html" %>
         <h1>マイページ</h1>
-        <hr>
 <h3>大原太郎さん</h3>
 <h2>予約一覧</h2>
 
