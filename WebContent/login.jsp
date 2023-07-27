@@ -8,10 +8,10 @@
 	<div class="cintent">
 		<div class="header">
 		<a href="home.html">ホーム</a>
-				<a href="allmovie.html">映画一覧</a>
-				<a href="login.html">ログイン</a>
-				<a href="logout.html">ログアウト</a>
-				<a href="mypage.html">マイページ</a>
+				<a href="allmovie.jsp">映画一覧</a>
+				<a href="login.jsp">ログイン</a>
+				<a href="logout.jsp">ログアウト</a>
+				<a href="mypage.jsp">マイページ</a>
 				<hr>
 			</div>
 	<h1>ログイン</h1>
@@ -22,3 +22,4 @@
 	<p><a href="logoutcomplete.jsp"><button style="background-color: #ee7800; color: white;">ログアウト</button></a></p>
 		</div>
 </body>
+<!-- ログイン画面 -->
