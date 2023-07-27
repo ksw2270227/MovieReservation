@@ -1,12 +1,23 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<title>login complete</title>
 </head>
 <body>
+	<div class="back">
+		<div class="main">
+			<div class="header">
+				<a href="home.html">ホーム</a>
+				<a href="allmovie.html">映画一覧</a>
+				<a href="login.html">ログイン</a>
+				<a href="logout.html">ログアウト</a>
+				<a href="mypage.html">マイページ</a>
+				<hr>
+			</div>
+			<p>ログインしました。</p>
+	<p><a href="signup.jsp"><button style="background-color: #ee7800; color: white;">ホーム</button></a></p>
 
+	</div>
+	</div>
 </body>
-</html>

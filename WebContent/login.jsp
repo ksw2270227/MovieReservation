@@ -1,12 +1,24 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<%@ page language="java" contentType="text/html; charset=UTF-8"%>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<title>login move</title>
 </head>
 <body>
-
+	<div class="cintent">
+		<div class="header">
+		<a href="home.html">ホーム</a>
+				<a href="allmovie.html">映画一覧</a>
+				<a href="login.html">ログイン</a>
+				<a href="logout.html">ログアウト</a>
+				<a href="mypage.html">マイページ</a>
+				<hr>
+			</div>
+	<h1>ログイン</h1>
+	<p>ログインをするには、下記の必要事項を入力してください。</p>
+	<p>メールアドレス:<input type="email" name="myname"></p>
+	<p>パスワード:<input type="password" name="passcode"></p>
+	<p><a href="logincomplete.jsp"><button style="background-color: #ee7800; color: white;">ログイン</button></a></p>
+	<p><a href="logoutcomplete.jsp"><button style="background-color: #ee7800; color: white;">ログアウト</button></a></p>
+		</div>
 </body>
-</html>
