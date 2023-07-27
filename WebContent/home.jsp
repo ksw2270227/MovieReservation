@@ -13,6 +13,6 @@
 <a href="login.html">ログイン</a>
 <a href="logout.html">ログイン</a>
 <a href="mypage.html">マイページ</a>
-
+::
 </body>
 </html>
