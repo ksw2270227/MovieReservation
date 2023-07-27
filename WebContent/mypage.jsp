@@ -1,16 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="style.css">
-<title>マイページ</title>
-</head>
+
 <%@include file="header.html" %>
-<body>
 <div class="back">
     <div class="main">
-
         <h1>マイページ</h1>
 <h3>大原太郎さん</h3>
 <h2>予約一覧</h2>
