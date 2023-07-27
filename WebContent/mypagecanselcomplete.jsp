@@ -9,7 +9,14 @@
 <body>
 <div class="back">
     <div class="main">
-<%@include file="header.html" %>
+<div class="header">
+            <a href="/home">ホーム</a>
+            <a href="/all">映画一覧</a>
+            <a href="/login">ログイン</a>
+            <a href="/logout">ログアウト</a>
+            <a href="/mypage">マイページ</a>
+            <hr>
+        </div>
 <h1>予約キャンセル画面</h1>
 <hr>
 <h3>名探偵コナン　／　９：００～１０：３０／　人数：２人　／　座席：Ａ２,Ａ３</h3>
