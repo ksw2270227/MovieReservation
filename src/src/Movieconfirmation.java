@@ -8,13 +8,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet(urlPatterns={"/movieall"})
-public class Movieall extends HttpServlet {
+@WebServlet(urlPatterns={"/movieconfirmation"})
+public class Movieconfirmation extends HttpServlet {
 
 	public void doGet (
 		HttpServletRequest request, HttpServletResponse response
 	) throws ServletException, IOException {
-		request.getRequestDispatcher("movieall.jsp")
+		request.getRequestDispatcher("movieconfirmation.jsp")
 			.forward(request, response);
 	}
 }
