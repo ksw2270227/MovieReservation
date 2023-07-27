@@ -7,13 +7,32 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <div class="header">
-        <a href="/home">ホーム</a>
-        <a href="/movieall">映画一覧</a>
-        <a href="/login">ログイン</a>
-        <a href="/logout">ログアウト</a>
-        <a href="/mypage">マイページ</a>
-        <hr>
+<div class="back">
+        <div class="main">
+            <div class="header">
+            <a href="/home">ホーム</a>
+            <a href="/allmovie">映画一覧</a>
+            <a href="/login">ログイン</a>
+            <a href="/logout">ログアウト</a>
+            <a href="/mypage">マイページ</a>
+            <hr>
+            </div>
+            <hr>
+            <div>
+                <img src="kimi.png" style="width: 20%; height: 20%;"><br>君たちはどう生きるか  / 上映時間:124分 / <a href="movieselecttime.html" ><button class="yoyaku">予約</button></a>
+            </div>
+            <hr>
+            <div>
+                <img src="misson.png" style="width: 20%; height: 20%;"><br>ミッション:インポッシブル/デッドレコニング  /  上映時間164分 / <a href="movieselecttime.html"><button class="yoyaku">予約</button></a>
+            </div>
+            <hr>
+        </div>
     </div>
 </body>
+<style>
+    .yoyaku{
+        background-color: #aa4c8f;
+        color: white;
+    }
+</style>
 </html>
