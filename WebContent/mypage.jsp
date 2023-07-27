@@ -1,15 +1,16 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="style.css">
-<title>マイページ</title>
-</head>
-<body>
+
+
 <div class="back">
     <div class="main">
-<%@include file="header.html" %>
+            <div class="header">
+            <a href="/home">ホーム</a>
+            <a href="/all">映画一覧</a>
+            <a href="/login">ログイン</a>
+            <a href="/logout">ログアウト</a>
+            <a href="/mypage">マイページ</a>
+            <hr>
+        </div>
         <h1>マイページ</h1>
 <h3>大原太郎さん</h3>
 <h2>予約一覧</h2>
