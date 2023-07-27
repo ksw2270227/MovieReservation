@@ -8,11 +8,11 @@
 	<div class="back">
 	<div class="main">
 		<div class="header">
-			<a href="home.html">ホーム</a>
-			<a href="allmovie.html">映画一覧</a>
-			<a href="login.html">ログイン</a>
-			<a href="logout.html">ログアウト</a>
-			<a href="mypage.html">マイページ</a>
+			<a href="home.jsp">ホーム</a>
+			<a href="allmovie.jsp">映画一覧</a>
+			<a href="login.jsp">ログイン</a>
+			<a href="logout.jsp">ログアウト</a>
+			<a href="mypage.jsp">マイページ</a>
 			<hr>
 		<p>ログアウトしました。</p>
 	<p><a href="home.jsp"><button style="background-color: #ee7800; color: white;">ホームへ</button></a></p>
