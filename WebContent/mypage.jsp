@@ -8,7 +8,7 @@
 <body>
 <div class="back">
     <div class="main">
-<%@include file="../header.html" %>
+<%@include file="header.html" %>
         <h1>マイページ</h1>
         <hr>
 <h3>大原太郎さん</h3>
