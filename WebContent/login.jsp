@@ -22,3 +22,4 @@
 	<p><a href="logoutcomplete.jsp"><button style="background-color: #ee7800; color: white;">ログアウト</button></a></p>
 		</div>
 </body>
+<!-- ログイン画面 -->
