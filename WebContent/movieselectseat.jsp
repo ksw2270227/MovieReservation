@@ -7,13 +7,51 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <div class="header">
-        <a href="/home">ホーム</a>
-        <a href="/movieall">映画一覧</a>
-        <a href="/login">ログイン</a>
-        <a href="/logout">ログアウト</a>
-        <a href="/mypage">マイページ</a>
-        <hr>
+<div class="back">
+    <div class="main">
+        <div class="header">
+            <a href="/home">ホーム</a>
+            <a href="/allmovie">映画一覧</a>
+            <a href="/login">ログイン</a>
+            <a href="/logout">ログアウト</a>
+            <a href="/mypage">マイページ</a>
+            <hr>
+        </div>
+
+<h1>君はどう生きるか</h1>
+<hr>
+    <h4>11:00　～　12:00</h4>
+<hr>
+人数指定 <select>
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
+    <option>4</option>
+</select>
+<table border="1">
+    <tr>
+        <td>　</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>A</td>
+        <td><input type="checkbox"></td>
+        <td><input type="checkbox"></td>
+        <td><input type="checkbox"></td>
+        <td><input type="checkbox"></td>
+        <td><input type="checkbox"></td>
+    </tr>
+</table>
+<p>次へ</p>
+
+<a href="login.html">ログインページ</a><br>
+<a href="movieconfigration.html">ログイン済みの方はこちら</a>
     </div>
+
+</div>
 </body>
 </html>
