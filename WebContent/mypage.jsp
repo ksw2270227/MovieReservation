@@ -4,11 +4,11 @@
 <div class="back">
     <div class="main">
             <div class="header">
-            <a href="home.html">ホーム</a>
-            <a href="allmovie.html">映画一覧</a>
-            <a href="login.html">ログイン</a>
-            <a href="logout.html">ログアウト</a>
-            <a href="mypage.html">マイページ</a>
+            <a href="/home">ホーム</a>
+            <a href="/all">映画一覧</a>
+            <a href="/login">ログイン</a>
+            <a href="/logout">ログアウト</a>
+            <a href="/mypage">マイページ</a>
             <hr>
         </div>
         <h1>マイページ</h1>
