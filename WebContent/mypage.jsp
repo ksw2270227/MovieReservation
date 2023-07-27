@@ -52,5 +52,4 @@
     }
 
 </style>
-<%@include file="../header.html" %>
 </html>
