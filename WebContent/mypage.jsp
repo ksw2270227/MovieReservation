@@ -8,14 +8,7 @@
 <body>
 <div class="back">
     <div class="main">
-        <div class="header">
-            <a href="home.html">ホーム</a>
-            <a href="allmovie.html">映画一覧</a>
-            <a href="login.html">ログイン</a>
-            <a href="logout.html">ログアウト</a>
-            <a href="mypage.html">マイページ</a>
-            <hr>
-        </div>
+<%@include file="../header.html" %>
         <h1>マイページ</h1>
         <hr>
 <h3>大原太郎さん</h3>
@@ -59,4 +52,5 @@
     }
 
 </style>
+<%@include file="../header.html" %>
 </html>
