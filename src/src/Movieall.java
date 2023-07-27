@@ -18,3 +18,5 @@ public class Movieall extends HttpServlet {
 			.forward(request, response);
 	}
 }
+
+
