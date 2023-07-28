@@ -10,16 +10,16 @@
 <body>
     <div class="main">
         <div class="header">
-            <a href="/home">ホーム</a>
-            <a href="/movieall">映画一覧</a>
-            <a href="/login">ログイン</a>
-            <a href="/logout">ログアウト</a>
-            <a href="/mypage">マイページ</a>
+            <a href="/MovieReservation/home">ホーム</a>
+            <a href="/MovieReservation/movieall">映画一覧</a>
+            <a href="/MovieReservation/login">ログイン</a>
+            <a href="/MovieReservation/logout">ログアウト</a>
+            <a href="/MovieReservation/mypage">マイページ</a>
             <hr>
         </div>
         <div class="back">
             <h1>予約完了</h1>
-            <a href="home.html"><button class="yoyaku">ホームへ</button></a>
+            <a href="/MovieReservation/home"><button class="yoyaku">ホームへ</button></a>
         </div>
     </div>
 </body>

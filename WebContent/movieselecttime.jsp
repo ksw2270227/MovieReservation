@@ -11,11 +11,11 @@
 <div class="back">
     <div class="main">
         <div class="header">
-            <a href="/home">ホーム</a>
-            <a href="/movieall">映画一覧</a>
-            <a href="/login">ログイン</a>
-            <a href="/logout">ログアウト</a>
-            <a href="/mypage">マイページ</a>
+            <a href="/MovieReservation/home">ホーム</a>
+            <a href="/MovieReservation/movieall">映画一覧</a>
+            <a href="/MovieReservation/login">ログイン</a>
+            <a href="/MovieReservation/logout">ログアウト</a>
+            <a href="/MovieReservation/mypage">マイページ</a>
             <hr>
         </div>
 
@@ -27,9 +27,9 @@
 <br>
 <hr>
 
-<a>10:00 ～ 11:00</a><a href="movieselectseat.html"><button class="yoyaku">予約</button></a><br>
-<a>11:30 ～ 12:30</a><a href="movieselectseat.html"><button class="yoyaku">予約</button></a><br>
-<a>13:00 ～ 14:00</a><a href="movieselectseat.html"><button class="yoyaku">予約</button></a>
+<a>10:00 ～ 11:00</a><a href="/MovieReservation/movieselectseat"><button class="yoyaku">予約</button></a><br>
+<a>11:30 ～ 12:30</a><a href="/MovieReservation/movieselectseat"><button class="yoyaku">予約</button></a><br>
+<a>13:00 ～ 14:00</a><a href="/MovieReservation/movieselectseat"><button class="yoyaku">予約</button></a>
 
 <hr>
     </div>
