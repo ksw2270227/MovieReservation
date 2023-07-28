@@ -20,11 +20,11 @@
             </div>
             <hr>
             <div>
-                <img src="kimi.png" style="width: 20%; height: 20%;"><br>君たちはどう生きるか  / 上映時間:124分 / <a href="movieselecttime.html" ><button class="yoyaku">予約</button></a>
+                <img src="kimi.png" style="width: 20%; height: 20%;"><br>君たちはどう生きるか  / 上映時間:124分 / <a href="/movieselecttime" ><button class="yoyaku">予約</button></a>
             </div>
             <hr>
             <div>
-                <img src="misson.png" style="width: 20%; height: 20%;"><br>ミッション:インポッシブル/デッドレコニング  /  上映時間164分 / <a href="movieselecttime.html"><button class="yoyaku">予約</button></a>
+                <img src="misson.png" style="width: 20%; height: 20%;"><br>ミッション:インポッシブル/デッドレコニング  /  上映時間164分 / <a href="/MovieReservation/movieselecttime"><button class="yoyaku">予約</button></a>
             </div>
             <hr>
         </div>
