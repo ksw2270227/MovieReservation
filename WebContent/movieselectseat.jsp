@@ -47,10 +47,9 @@
         <td><input type="checkbox"></td>
     </tr>
 </table>
-<p>次へ</p>
+<a href="/MovieReservation/movieconfirmation">次へ</a>
 
-<a href="/MovieReservation/login">ログインページ</a><br>
-<a href="/MovieReservation/movieconfirmation">ログイン済みの方はこちら</a>
+
     </div>
 
 </div>
