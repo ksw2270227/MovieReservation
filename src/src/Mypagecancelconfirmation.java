@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-@WebServlet(urlPatterns={"/mypagecancelconfimation"})
+@WebServlet(urlPatterns={"/mypagecancelconfirmation"})
 
 public class Mypagecancelconfirmation extends HttpServlet {
 
@@ -21,7 +21,7 @@ public class Mypagecancelconfirmation extends HttpServlet {
 
     ) throws ServletException, IOException {
 
-        request.getRequestDispatcher("mypagecancelconfimation.jsp")
+        request.getRequestDispatcher("mypagecancelconfirmation.jsp")
 
             .forward(request, response);
 
