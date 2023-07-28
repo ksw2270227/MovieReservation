@@ -44,7 +44,7 @@
 </div>
 </div>
 <a href="/MovieReservation/mypagecancelconfirmation"><button class="yoyaku">予約キャンセル</button></a>
-<p><a href="home.jsp"><button class="yoyaku">ホームへ</button></a>
+<p><a href="/MovieReservation/home"><button class="yoyaku">ホームへ</button></a>
 
 </p>
 </div>
