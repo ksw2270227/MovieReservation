@@ -7,11 +7,11 @@
 <body>
 	<div class="cintent">
 		<div class="header">
-		<a href="home.html">ホーム</a>
-				<a href="allmovie.jsp">映画一覧</a>
-				<a href="login.jsp">ログイン</a>
-				<a href="logout.jsp">ログアウト</a>
-				<a href="mypage.jsp">マイページ</a>
+		<a href="/home">ホーム</a>
+				<a href="/movieall">映画一覧</a>
+				<a href="/login">ログイン</a>
+				<a href="/logout">ログアウト</a>
+				<a href="/mypage">マイページ</a>
 				<hr>
 			</div>
 	<h1>ログイン</h1>
