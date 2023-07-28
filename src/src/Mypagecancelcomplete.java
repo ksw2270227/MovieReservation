@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns={"/mypagecancelcomplete"})
 
-public class Mypagecacelcomplete extends HttpServlet {
+public class Mypagecancelcomplete extends HttpServlet {
 
     public void doGet (
 
