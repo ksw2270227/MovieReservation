@@ -22,7 +22,7 @@
 	<p>メールアドレス:<input type="email" name="myname"></p>
 	<p>パスワード:<input type="password" name="passcode"></p>
 	<p><a href="logincomplete.jsp"><button style="background-color: #ee7800; color: white;">ログイン</button></a></p>
-	<p><a href="logoutcomplete.jsp"><button style="background-color: #ee7800; color: white;">ログアウト</button></a></p>
+	<p><a href="signup.jsp"><button style="background-color: #ee7800; color: white;">新規作成</button></a></p>
 		</div>
 		</div>
 		</div>
