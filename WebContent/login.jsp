@@ -21,8 +21,8 @@
 	<p>ログインをするには、下記の必要事項を入力してください。</p>
 	<p>メールアドレス:<input type="email" name="myname"></p>
 	<p>パスワード:<input type="password" name="passcode"></p>
-	<p><a href="logincomplete.jsp"><button style="background-color: #ee7800; color: white;">ログイン</button></a></p>
-	<p><a href="signup.jsp"><button style="background-color: #ee7800; color: white;">新規作成</button></a></p>
+	<p><a href="/MovieReservation/logincomplete"><button style="background-color: #ee7800; color: white;">ログイン</button></a></p>
+	<p><a href="/MovieReservation/signup"><button style="background-color: #ee7800; color: white;">新規作成</button></a></p>
 		</div>
 		</div>
 		</div>

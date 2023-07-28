@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="back">
     <div class="main">
         <div class="header">
             <a href="/MovieReservation/home">ホーム</a>
@@ -17,7 +18,7 @@
             <a href="/MovieReservation/mypage">マイページ</a>
             <hr>
         </div>
-        <div class="back">
+
             <h1>予約完了</h1>
             <a href="/MovieReservation/home"><button class="yoyaku">ホームへ</button></a>
         </div>
