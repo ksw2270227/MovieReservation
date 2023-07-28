@@ -10,7 +10,7 @@
 <div class="back">
 <div class="main">
     <div class="header">
-        <a href="/MovieReservation/home">ホーム</a>
+        <a href="/home">ホーム</a>
 			<a href="/MovieReservation/movieall">映画一覧</a>
 			<a href="/MovieReservation/login">ログイン</a>
 			<a href="/MovieReservation/logout">ログイン</a>
@@ -26,8 +26,8 @@
 <h3>この予約を</h3>
 <h3>　　　キャンセルされました。</h3>
 
-<a href="/MovieReservation/home"><button class="yoyaku">ホームへ</button></a>
-<a href="/MovieReservation/mypage"><button class="yoyaku">マイページ</button></a>
+<a href="/home"><button class="yoyaku">ホームへ</button></a>
+<a href="/mypage.jsp"><button class="yoyaku">マイページ</button></a>
 
 </div>
 </div>
