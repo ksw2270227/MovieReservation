@@ -15,7 +15,7 @@
 			<div class="header">
 <a href="/MovieReservation/movieall">映画一覧</a>
 <a href="/MovieReservation/login">ログイン</a>
-<a href="/MovieReservation/logout">ログイン</a>
+<a href="/MovieReservation/logout">ログアウト</a>
 <a href="/MovieReservation/mypage">マイページ</a>
 			</div>
 		<h1>ホームページ</h1>
