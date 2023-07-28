@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(50, 50, 50);   
+}
+
+.back{
+    /*background-color: white;*/
+    background-color:white;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-bottom: 20%;
+}
+
+.main{
+    margin: 15px;
+}
+
+.header{
+    background-color: rgb(231, 230, 231,0.3);
+}
+
+.header a{
+    color: black;
+}
