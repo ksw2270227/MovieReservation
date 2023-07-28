@@ -9,6 +9,7 @@
 	<div class="back">
 	<div class="main">
 		<div class="header">
+			<a href="/MovieReservation/home">ホーム</a>
 			<a href="/MovieReservation/movieall">映画一覧</a>
 			<a href="/MovieReservation/login">ログイン</a>
 			<a href="/MovieReservation/logout">ログアウト</a>

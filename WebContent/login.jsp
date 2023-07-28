@@ -10,7 +10,7 @@
 		<div class="main">
 	<div class="cintent">
 		<div class="header">
-		<a href="/home">ホーム</a>
+				<a href="/MovieReservation/home">ホーム</a>
 				<a href="/MovieReservation/movieall">映画一覧</a>
 				<a href="/MovieReservation/login">ログイン</a>
 				<a href="/MovieReservation/logout">ログアウト</a>
