@@ -26,7 +26,7 @@
 <h3>この予約を</h3>
 <h3>　　　キャンセルされました。</h3>
 
-<a href="/home"><button class="yoyaku">ホームへ</button></a>
+<a href="/home.jsp"><button class="yoyaku">ホームへ</button></a>
 <a href="mypage.jsp"><button class="yoyaku">マイページ</button></a>
 
 </div>

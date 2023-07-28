@@ -44,7 +44,7 @@
 </div>
 </div>
 <a href="mypagecanselconfirmation.jsp"><button class="yoyaku">予約キャンセル</button></a>
-<p><a href="/home"><button class="yoyaku">ホームへ</button></a>
+<p><a href="home.jsp"><button class="yoyaku">ホームへ</button></a>
 
 </p>
 </div>
