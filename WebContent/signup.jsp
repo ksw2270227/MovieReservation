@@ -9,11 +9,10 @@
 	<div class="back">
 		<div class="main">
 			<div class="header">
-				<a href="/home">ホーム</a>
-				<a href="/allmovie">映画一覧</a>
-				<a href="/login">ログイン</a>
-				<a href="/logout">ログアウト</a>
-				<a href="/mypage">マイページ</a>
+				<a href="/MovieReservation/movieall">映画一覧</a>
+				<a href="/MovieReservation/login">ログイン</a>
+				<a href="/MovieReservation/logout">ログイン</a>
+				<a href="/MovieReservation/mypage">マイページ</a>
 				<hr>
 			<h1>新規作成</h1>
 		<p>新規作成の登録には、下記の入力をしてください。</p>
