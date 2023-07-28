@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet(urlPatterns={"/MovieReservation/moviesignup"})
+@WebServlet(urlPatterns={"/moviesignup"})
 public class Moviesignup extends HttpServlet {
 
 	public void doGet (

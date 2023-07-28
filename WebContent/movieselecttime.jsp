@@ -28,7 +28,7 @@
 <hr>
 
 <a>10:00 ～ 11:00</a><a href="/MovieReservation/movielogin"><button class="yoyaku">ログインページ</button></a>　　<a href="/MovieReservation/movieselectseat"><button class="yoyaku">ログイン済みの方はこちら</button></a><br>
-<a>11:30 ～ 12:30</a><a href="/MovieReservation/movelogin"><button class="yoyaku">ログインページ</button></a>　　<a href="/MovieReservation/movieselectseat"><button class="yoyaku">ログイン済みの方はこちら</button></a><br>
+<a>11:30 ～ 12:30</a><a href="/MovieReservation/movielogin"><button class="yoyaku">ログインページ</button></a>　　<a href="/MovieReservation/movieselectseat"><button class="yoyaku">ログイン済みの方はこちら</button></a><br>
 <a>13:00 ～ 14:00</a><a href="/MovieReservation/movielogin"><button class="yoyaku">ログインページ</button></a>　　<a href="/MovieReservation/movieselectseat"><button class="yoyaku">ログイン済みの方はこちら</button></a><br>
 
 <hr>
