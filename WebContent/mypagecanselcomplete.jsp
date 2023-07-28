@@ -15,6 +15,7 @@
 			<a href="/MovieReservation/login">ログイン</a>
 			<a href="/MovieReservation/logout">ログアウト</a>
 			<a href="/MovieReservation/mypage">マイページ</a>
+
         <hr>
     </div>
 <h1>キャンセル確認画面</h1>
