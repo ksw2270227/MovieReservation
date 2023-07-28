@@ -50,7 +50,7 @@
 <p>次へ</p>
 
 <a href="/MovieReservation/login">ログインページ</a><br>
-<a href="/MovieReservation/movieconfigration">ログイン済みの方はこちら</a>
+<a href="/MovieReservation/movieconfirmation">ログイン済みの方はこちら</a>
     </div>
 
 </div>
