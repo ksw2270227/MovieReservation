@@ -3,6 +3,7 @@
 	<link rel="stylesheet" href="style.css">
 <meta charset="UTF-8">
 <title>sinkisakusei move</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<div class="back">

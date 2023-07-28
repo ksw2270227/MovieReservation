@@ -3,6 +3,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="style.css">
 <title>login move</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<div class="cintent">

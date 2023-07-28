@@ -3,6 +3,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="style.css">
 <title>Insert title here</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<div class="back">
