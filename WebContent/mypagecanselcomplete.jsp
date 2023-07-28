@@ -27,7 +27,7 @@
 <h3>　　　キャンセルされました。</h3>
 
 <a href="/home"><button class="yoyaku">ホームへ</button></a>
-<a href="/mypage.jsp"><button class="yoyaku">マイページ</button></a>
+<a href="mypage.jsp"><button class="yoyaku">マイページ</button></a>
 
 </div>
 </div>
