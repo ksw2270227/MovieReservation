@@ -7,9 +7,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-
-
 	<div class="back">
 		<div class="main">
 			<div class="header">
@@ -19,8 +16,16 @@
 <a href="/MovieReservation/mypage">マイページ</a>
 			</div>
 		<h1>ホームページ</h1>
-			</div>
-			</div>
+			     <h2>おすすめの映画</h2>
+                <hr>
+                <img src="kimi_osusume.png" style="width: 50%; height: 50%;"><img src="mission_osusume.png" style="width: 50%; height: 50%;">
+                <hr>
+                <p style="font-size: 20px;">今週のオススメ</p>
+                <hr>
+                <img src="item_osusume.png" style="width: 50%; height: 50%;">
+
+		</div>
+	</div>
 
 
 </body>
