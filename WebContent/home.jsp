@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>ホームページ</h1>
+
 
 	<div class="back">
 		<div class="main">
@@ -18,6 +18,7 @@
 <a href="/MovieReservation/logout">ログイン</a>
 <a href="/MovieReservation/mypage">マイページ</a>
 			</div>
+		<h1>ホームページ</h1>
 			</div>
 			</div>
 
