@@ -17,7 +17,6 @@
 			<a href="/MovieReservation/mypage">マイページ</a>
         <hr>
     </div>
-
 <h1>キャンセル確認画面</h1>
 <hr>
 
