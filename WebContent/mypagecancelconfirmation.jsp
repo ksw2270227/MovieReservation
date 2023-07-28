@@ -23,7 +23,7 @@
 <h3>この予約を</h3>
 <h3>　　　キャンセルしますか？</h3>
 <a href="/MovieReservation/mypagecanselcomplete"><button class="yoyaku">はい</button></a>
-<a href="mypage.jsp"><button class="yoyaku">いいえ</button></a>
+<a href="/MovieReservation/mypage"><button class="yoyaku">いいえ</button></a>
 <p style="color:red;">※一度キャンセルすると元に戻せません。</p>
 <p style="color:red;">　　画面に表示されている予約情報とキャンセルしたい予約が一致しているか確認してください。</p>
     </div>
