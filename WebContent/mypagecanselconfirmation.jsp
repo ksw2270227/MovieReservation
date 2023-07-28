@@ -22,7 +22,7 @@
 <h3>名探偵コナン　／　９：００～１０：３０／　人数：２人　／　座席：Ａ２,Ａ３</h3>
 <h3>この予約を</h3>
 <h3>　　　キャンセルしますか？</h3>
-<a href="mypagecancelcomplete.html"><button class="yoyaku">はい</button></a>
+<a href="mypagecancelcomplete.jsp"><button class="yoyaku">はい</button></a>
 <a href="mypage.html"><button class="yoyaku">いいえ</button></a>
 <p style="color:red;">※一度キャンセルすると元に戻せません。</p>
 <p style="color:red;">　　画面に表示されている予約情報とキャンセルしたい予約が一致しているか確認してください。</p>
