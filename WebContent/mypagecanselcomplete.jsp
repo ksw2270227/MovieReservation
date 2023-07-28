@@ -3,30 +3,33 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
 <link rel="stylesheet" href="style.css">
+<title>キャンセル完了</title>
 </head>
 <body>
 <div class="back">
-    <div class="main">
-<div class="header">
-            <a href="/MovieReservation/home">ホーム</a>
+<div class="main">
+    <div class="header">
+        <a href="/home">ホーム</a>
 			<a href="/MovieReservation/movieall">映画一覧</a>
 			<a href="/MovieReservation/login">ログイン</a>
 			<a href="/MovieReservation/logout">ログイン</a>
 			<a href="/MovieReservation/mypage">マイページ</a>
-            <hr>
-        </div>
-<h1>予約キャンセル画面</h1>
+        <hr>
+    </div>
+
+<h1>キャンセル確認画面</h1>
 <hr>
+
+<p>大原太郎さん</p>
 <h3>名探偵コナン　／　９：００～１０：３０／　人数：２人　／　座席：Ａ２,Ａ３</h3>
 <h3>この予約を</h3>
-<h3>　　　キャンセルしますか？</h3>
-<a href="mypagecanselcomplete.jsp"><button class="yoyaku">はい</button></a>
-<a href="mypage.jsp"><button class="yoyaku">いいえ</button></a>
-<p style="color:red;">※一度キャンセルすると元に戻せません。</p>
-<p style="color:red;">　　画面に表示されている予約情報とキャンセルしたい予約が一致しているか確認してください。</p>
-    </div>
+<h3>　　　キャンセルされました。</h3>
+
+<a href="/home"><button class="yoyaku">ホームへ</button></a>
+<a href="/mypage.jsp"><button class="yoyaku">マイページ</button></a>
+
+</div>
 </div>
 </body>
 <style>
