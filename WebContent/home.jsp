@@ -10,10 +10,10 @@
 
 <h1>ホームページ</h1>
 
-<a href="/movieall">映画一覧</a>
-<a href="/login">ログイン</a>
-<a href="/logout">ログイン</a>
-<a href="/mypage">マイページ</a>
+<a href="/MovieReservation/movieall">映画一覧</a>
+<a href="/MovieReservation/login">ログイン</a>
+<a href="/MovieReservation/logout">ログイン</a>
+<a href="/MovieReservation/mypage">マイページ</a>
 
 </body>
 </html>
