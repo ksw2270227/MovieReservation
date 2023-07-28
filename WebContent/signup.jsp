@@ -19,7 +19,7 @@
 		<p>名前:<input type="name" name="myname"></p>
 		<p>メールアドレス:<input type="email" name="myemail"></p>
 		<p>パスワード:<input type="password" name="passcode"></p>
-		<p><a href="logincomplete.jsp"><button style="background-color: #ee7800; color: white;">作成</button></a></p>
+		<p><a href="/MovieReservation/logincomplete"><button style="background-color: #ee7800; color: white;">作成</button></a></p>
 		</div>
 		</div>
 	</div>
