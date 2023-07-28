@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns={"/mypagecancelconfimation"})
 
-public class Mypagecancelconfimation extends HttpServlet {
+public class Mypagecancelconfirmation extends HttpServlet {
 
     public void doGet (
 
