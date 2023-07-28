@@ -32,7 +32,7 @@
 <p style="font-size:22px">座席　　　：　　　Ａ２,Ａ３</p>
 </div>
 </div>
-<a href="/mypagecanselconfirmation.jsp"><button class="yoyaku">予約キャンセル</button></a>
+<a href="mypagecanselconfirmation.jsp"><button class="yoyaku">予約キャンセル</button></a>
 
 <div style="display: flex; align-items: center;">
 <a><img src="kimi.png" style="width:200px; height:200px;"></a>
@@ -43,7 +43,7 @@
 <p style="font-size:22px">座席　　　：　　　Ａ２,Ａ３</p>
 </div>
 </div>
-<a href="/mypagecanselconfirmation.jsp"><button class="yoyaku">予約キャンセル</button></a>
+<a href="mypagecanselconfirmation.jsp"><button class="yoyaku">予約キャンセル</button></a>
 <p><a href="/home"><button class="yoyaku">ホームへ</button></a>
 
 </p>
