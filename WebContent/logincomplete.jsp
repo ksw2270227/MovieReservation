@@ -16,7 +16,7 @@
 				<hr>
 			</div>
 			<p>ログインしました。</p>
-	<p><a href="signup.jsp"><button style="background-color: #ee7800; color: white;">ホーム</button></a></p>
+	<p><a href="home.jsp"><button style="background-color: #ee7800; color: white;">ホーム</button></a></p>
 
 	</div>
 	</div>
