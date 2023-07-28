@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-@WebServlet(urlPatterns={"/src/mypagecancelconfimation"})
+@WebServlet(urlPatterns={"/mypagecancelconfimation"})
 
 public class Mypagecancelconfimation extends HttpServlet {
 

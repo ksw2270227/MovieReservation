@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-@WebServlet(urlPatterns={"/src/home"})
+@WebServlet(urlPatterns={"/home"})
 
 public class Home extends HttpServlet {
 

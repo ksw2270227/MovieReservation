@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
-@WebServlet(urlPatterns={"/src/mypagecancelcomplete"})
+@WebServlet(urlPatterns={"/mypagecancelcomplete"})
 
 public class Mypagecacelcomplete extends HttpServlet {
 
