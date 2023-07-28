@@ -10,10 +10,17 @@
 
 <h1>ホームページ</h1>
 
+	<div class="back">
+		<div class="main">
+			<div class="header">
 <a href="/MovieReservation/movieall">映画一覧</a>
 <a href="/MovieReservation/login">ログイン</a>
 <a href="/MovieReservation/logout">ログイン</a>
 <a href="/MovieReservation/mypage">マイページ</a>
+			</div>
+			</div>
+			</div>
+
 
 </body>
 </html>

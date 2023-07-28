@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+	<div class="back">
+		<div class="main">
 	<div class="cintent">
 		<div class="header">
 		<a href="/home">ホーム</a>
@@ -21,6 +23,8 @@
 	<p>パスワード:<input type="password" name="passcode"></p>
 	<p><a href="logincomplete.jsp"><button style="background-color: #ee7800; color: white;">ログイン</button></a></p>
 	<p><a href="logoutcomplete.jsp"><button style="background-color: #ee7800; color: white;">ログアウト</button></a></p>
+		</div>
+		</div>
 		</div>
 </body>
 <!-- ログイン画面 -->
